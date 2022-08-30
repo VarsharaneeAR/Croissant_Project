@@ -1,0 +1,43 @@
+h2{
+ color: black;
+ size: 50px;
+ display: block;
+ text-align: center;
+}
+
+.discription{
+color: grey;
+ size: 15px;
+ display: block;
+ text-align: center;
+}
+
+p{
+display: block;
+text-align: center;
+}
+
+a:link{ 
+    text-decoration: none;
+}
+a:visited{ color: palevioletred;
+text-decoration: none;}
+a:hover{ color: coral;
+    text-decoration: none;}
+
+.homepage {
+    margin-right: 0.5em;
+    
+}
+
+.contact{
+    margin-right:  0.5em;}
+
+img{
+    padding-left: 250px;
+    align-items: center;
+    max-width: 30%;
+    height: auto;
+    display: block;
+    align-content:center;
+}
